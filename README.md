@@ -13,75 +13,88 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I’m AS 👋  
+# Hi there, I’m Abhishek Sapkal 👋  
 
 **💻 Data Science | Cybersecurity | Web Development | IoT**  
-I’m passionate about building impactful projects that combine **technology + creativity**.  
-Currently exploring **Machine Learning, Security Tools, and Full-Stack Development**.  
+Ambitious and dedicated undergraduate with strong foundations in **software development, machine learning, and cybersecurity**.  
+Passionate about solving problems, building impactful projects, and continuously learning new technologies.  
 
 ---
 
 ## 🔹 About Me  
-- 🎓 Final Year Engineering Student  
-- 🛠 Worked on projects in **E-commerce EdTech (EduShop)**, **IoT Home Automation**, **Cybersecurity Tools**, and **Machine Learning Models**  
-- 🌱 Learning: **Cloud, Cybersecurity, Generative AI**  
-- 🚀 Aspiring **Data Scientist / ML Engineer**  
+- 🎓 Pursuing **B.E. Computer Engineering** at Zeal College of Engineering and Research, Pune (GPA: 9.26)  
+- 💼 Internship Experience:  
+  - **Celebal Technologies (2025):** Data Science & Machine Learning with real-world datasets, ML models, MLOps exposure  
+  - **Emertxe Technologies (2024):** C, C++, IoT & Embedded Systems internship  
+- 🛠 Hands-on projects in **AI, ML, Web Development, and IoT**  
+- 🌱 Exploring **MLOps, Generative AI, and Cybersecurity**  
+- 🚀 Aspiring **Data Scientist / ML Engineer / Cybersecurity Professional**  
 
 ---
 
 ## 🔹 Skills  
 
-**Languages**: Python, C++, JavaScript  
-**Frameworks**: Django, React, Node.js, Express.js  
-**Databases**: PostgreSQL, MongoDB  
-**Domains**: Cybersecurity, Machine Learning, IoT, Web Development  
-**Tools**: Git, GitHub, Jupyter Notebook, Arduino  
+**Languages:** Python, C++, Java, HTML, CSS, JavaScript  
+**Frameworks & Libraries:** Django, NumPy, Pandas, Matplotlib, Scikit-learn  
+**Databases:** MySQL, MongoDB  
+**Developer Tools:** VS Code, Jupyter Notebook  
+**Core Competencies:** Machine Learning, Data Science, Cybersecurity, Critical Thinking, Problem Solving  
 
 ---
 
 ## 🔹 Featured Projects  
 
-### 🛒 EduShop – E-Learning + Marketplace  
-Full-stack platform combining **courses + e-commerce**, with a unique rewards system (EduPoints).  
-**Tech**: React Native, Node.js, PostgreSQL, Stripe, AdMob  
+### 🖐️ Sign Bridge – Connecting Signs to Words  
+Assistive system converting sign language into text using ML.  
 
 ---
 
-### 🏡 IoT Home Automation  
-Arduino-powered automation system for smart homes.  
-**Tech**: Arduino, C++, IoT Sensors  
+### 🏠 House Price Predictor  
+ML-based system predicting house prices using regression techniques.  
 
 ---
 
-### 🛡 Cybersecurity Tools in Python  
-Collection of custom-built tools: Port Scanner, Brute Force Cracker, Packet Sniffer.  
-**Tech**: Python (socket, scapy, paramiko, nmap)  
+### 🌸 Online Flower Shop  
+E-commerce web app with product management and purchase features.  
 
 ---
 
-### 📊 German Credit Risk Prediction (CSI_Project_CRP)  
-Random Forest ensemble to predict creditworthiness.  
-**Tech**: Python, Scikit-Learn, Pandas, Matplotlib  
+### 💳 Credit Risk Evaluation System  
+Evaluates creditworthiness using ML classification models.  
 
 ---
 
-### 🏆 Ranangan Sports Fest Website  
-Official site with **schedule, player registration, and points table**.  
-**Tech**: HTML, CSS, JavaScript, Bootstrap  
+### 📚 Online Book Store  
+Dynamic book purchasing and management system.  
 
 ---
 
-## 🔹 GitHub Overview  
+### 🎤 ArguMentor – Virtual Debate Coach  
+AI-powered platform using **NLP, WhisperAI, Mediapipe** to analyze debates and provide real-time feedback.  
 
-![AS’s GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)  
+---
+
+## 🔹 Certifications  
+- 📜 Google Cybersecurity Professional Certificate (Risk Management, Network Security, Linux & SQL, Incident Response)  
+- 📜 Zensar Technologies – Employability Skill Development Program  
+- 📜 Rubicon Foundations – Future Skills for Youth Program  
+- 📜 Stanford University – Code in Place (Python Programming)  
+
+---
+
+## 🔹 Career Goals  
+- 🚀 Seeking **Internships / Full-time Roles** in:  
+  - Data Science / Machine Learning  
+  - Cybersecurity  
+  - Software Development  
+- 🌱 Excited to contribute to **real-world projects**, grow my skills, and make an impact.  
 
 ---
 
 ## 🔹 Connect with Me  
-- 🌐 LinkedIn: [My LinkedIn](linkedin.com/in/abhishek-sapkal-b11881263)  
-- 📧 Email: [My Email](mailto:abhisheksapkal002@gmail.com)  
-- 📝 Portfolio: [My Website](https://yourportfolio.com)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/abhishek-sapkal-b11881263)  
+- 📧 [Email](mailto:abhisheksapkal002@gmail.com)  
+- 📱 +91 7665770015  
 
 ---
 ⭐ *Always curious, always learning.*  
