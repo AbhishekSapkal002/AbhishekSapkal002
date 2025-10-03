@@ -13,88 +13,80 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I’m Abhishek Sapkal 👋  
+<div style="font-family: 'Fira Code', 'Courier New', monospace; background-color: #0d1117; color: #c9d1d9; border: 1px solid #30363d; border-radius: 15px; padding: 30px; box-shadow: 0 0 100px rgba(88, 166, 255, 0.2); background-image: linear-gradient(rgba(13, 17, 23, 0.98), rgba(13, 17, 23, 0.98)), repeating-linear-gradient(0deg, rgba(88, 166, 255, 0.03) 0px, rgba(88, 166, 255, 0.03) 1px, transparent 1px, transparent 3px);">
 
-**💻 Data Science | Cybersecurity | Web Development | IoT**  
-Ambitious and dedicated undergraduate with strong foundations in **software development, machine learning, and cybersecurity**.  
-Passionate about solving problems, building impactful projects, and continuously learning new technologies.  
+<pre style="margin: 0; white-space: pre-wrap; text-align: center; color: #58a6ff; text-shadow: 0 0 10px #58a6ff, 0 0 20px #58a6ff;">
+╔═════════════════════════════════════════════════════════════════════════════╗
+║                      A B H I S H E K   V.   S A P K A L                       ║
+╚═════════════════════════════════════════════════════════════════════════════╝
+</pre>
+<p style="text-align: center; font-size: 14px; color: #8b949e;">[ DATA SCIENTIST │ MACHINE LEARNING ENGINEER │ SOFTWARE DEVELOPER | CYBERSECURITY PROFESSIONAL ]</p>
+<br>
 
----
+<p style="color: #3fb950; text-shadow: 0 0 8px #3fb95099;"><strong>[system@sapkal-net ~]$</strong> ./run profile_summary</p>
+<div style="padding-left: 15px; border-left: 2px solid #30363d;">
+  <p style="margin:0; font-weight: bold; color: #f778ba; text-shadow: 0 0 8px #f778ba99;">[ EXECUTING: Profile Summary ]</p>
+  <p style="margin:0; color: #c9d1d9;">Ambitious Computer Engineering undergraduate (GPA: 9.26) with a strong foundation in software development and data science. Eager to contribute to the dynamic tech industry by applying hands-on experience in Machine Learning and IoT to solve complex challenges.</p>
+</div>
+<br>
 
-## 🔹 About Me  
-- 🎓 Pursuing **B.E. Computer Engineering** at Zeal College of Engineering and Research, Pune (GPA: 9.26)  
-- 💼 Internship Experience:  
-  - **Celebal Technologies (2025):** Data Science & Machine Learning with real-world datasets, ML models, MLOps exposure  
-  - **Emertxe Technologies (2024):** C, C++, IoT & Embedded Systems internship  
-- 🛠 Hands-on projects in **AI, ML, Web Development, and IoT**  
-- 🌱 Exploring **MLOps, Generative AI, and Cybersecurity**  
-- 🚀 Aspiring **Data Scientist / ML Engineer / Cybersecurity Professional**  
+<p style="color: #3fb950; text-shadow: 0 0 8px #3fb95099;"><strong>[system@sapkal-net ~]$</strong> diag --skills --matrix</p>
+<div style="padding-left: 15px;">
+  <p style="margin:0; font-weight: bold; color: #f778ba; text-shadow: 0 0 8px #f778ba99;">[ CORE COMPETENCY MATRIX ]</p>
+  <pre style="margin: 0; white-space: pre-wrap; font-size: 14px;">
+╔═══════════════════════════╤══════════════════════════════════════════════╗
+║ <strong style="color: #58a6ff;">DOMAIN</strong>                      │ <strong style="color: #58a6ff;">TECHNOLOGIES</strong>                                 ║
+╠═══════════════════════════╪══════════════════════════════════════════════╣
+║ Languages                 │ Python, C++, SQL, JavaScript, HTML/CSS       ║
+║ Data Science & ML         │ Scikit-learn, Pandas, NumPy, Matplotlib      ║
+║ Frameworks & Databases    │ Django, MySQL, MongoDB                       ║
+╚═══════════════════════════╧══════════════════════════════════════════════╝
+  </pre>
+</div>
+<br>
 
----
+<p style="color: #3fb950; text-shadow: 0 0 8px #3fb95099;"><strong>[system@sapkal-net ~]$</strong> ls -l /archive/projects</p>
+<div style="padding-left: 15px;">
+  <p style="margin:0; font-weight: bold; color: #f778ba; text-shadow: 0 0 8px #f778ba99;">[ PROJECT ARCHIVE ]</p>
+  <pre style="margin: 0; white-space: pre-wrap; font-size: 14px;">
+◈ <a href="#" style="color: #58a6ff; text-decoration: none;">Argumentor_AI_Coach</a>
+  <span style="color: #8b949e;">└─ An AI platform analyzing speech for real-time public speaking feedback.</span>
+◈ <a href="#" style="color: #58a6ff; text-decoration: none;">Sign_Bridge_Translator</a>
+  <span style="color: #8b949e;">└─ A deep learning application translating ASL gestures into text via webcam.</span>
+◈ <a href="#" style="color: #58a6ff; text-decoration: none;">Credit_Risk_Evaluation</a>
+  <span style="color: #8b949e;">└─ A model to predict creditworthiness and minimize financial risk.</span>
+  </pre>
+</div>
+<br>
 
-## 🔹 Skills  
+<p style="color: #3fb950; text-shadow: 0 0 8px #3fb95099;"><strong>[system@sapkal-net ~]$</strong> cat /var/log/education.log</p>
+<div style="padding-left: 15px;">
+  <p style="margin:0; font-weight: bold; color: #f778ba; text-shadow: 0 0 8px #f778ba99;">[ ACADEMIC RECORD ]</p>
+  <pre style="margin: 10px 0 0 0; white-space: pre-wrap; font-size: 14px;">
+<strong style="color: #9cdcfe;">Degree:</strong>     BE Computer Engineering
+<strong style="color: #9cdcfe;">Institution:</strong> Zeal College of Engineering and Research, Pune
+<strong style="color: #9cdcfe;">Graduation:</strong> 2026
+<strong style="color: #9cdcfe;">GPA:</strong>        8.32
+  </pre>
+</div>
+<br>
 
-**Languages:** Python, C++, Java, HTML, CSS, JavaScript  
-**Frameworks & Libraries:** Django, NumPy, Pandas, Matplotlib, Scikit-learn  
-**Databases:** MySQL, MongoDB  
-**Developer Tools:** VS Code, Jupyter Notebook  
-**Core Competencies:** Machine Learning, Data Science, Cybersecurity, Critical Thinking, Problem Solving  
+<p style="color: #3fb950; text-shadow: 0 0 8px #3fb95099;"><strong>[system@sapkal-net ~]$</strong> cat /secure/credentials.log</p>
+<div style="padding-left: 15px;">
+  <p style="margin:0; font-weight: bold; color: #f778ba; text-shadow: 0 0 8px #f778ba99;">[ CREDENTIALS VERIFIED ]</p>
+  <ul style="margin: 10px 0 0 0; padding-left: 20px; list-style-type: none; font-size: 14px;">
+    <li><span style="color: #3fb950;">✔</span> Google Certified: Cybersecurity Professional</li>
+    <li><span style="color: #3fb950;">✔</span> Stanford University: Code in Place (Python)</li>
+    <li><span style="color: #3fb950;">✔</span> Zensar Technologies: Employability Skill Development</li>
+    <li><span style="color: #3fb950;">✔</span> Rubicon Foundations: Future Skills Program</li>
+  </ul>
+</div>
+<br>
 
----
-
-## 🔹 Featured Projects  
-
-### 🖐️ Sign Bridge – Connecting Signs to Words  
-Assistive system converting sign language into text using ML.  
-
----
-
-### 🏠 House Price Predictor  
-ML-based system predicting house prices using regression techniques.  
-
----
-
-### 🌸 Online Flower Shop  
-E-commerce web app with product management and purchase features.  
-
----
-
-### 💳 Credit Risk Evaluation System  
-Evaluates creditworthiness using ML classification models.  
-
----
-
-### 📚 Online Book Store  
-Dynamic book purchasing and management system.  
-
----
-
-### 🎤 ArguMentor – Virtual Debate Coach  
-AI-powered platform using **NLP, WhisperAI, Mediapipe** to analyze debates and provide real-time feedback.  
-
----
-
-## 🔹 Certifications  
-- 📜 Google Cybersecurity Professional Certificate (Risk Management, Network Security, Linux & SQL, Incident Response)  
-- 📜 Zensar Technologies – Employability Skill Development Program  
-- 📜 Rubicon Foundations – Future Skills for Youth Program  
-- 📜 Stanford University – Code in Place (Python Programming)  
-
----
-
-## 🔹 Career Goals  
-- 🚀 Seeking **Internships / Full-time Roles** in:  
-  - Data Science / Machine Learning  
-  - Cybersecurity  
-  - Software Development  
-- 🌱 Excited to contribute to **real-world projects**, grow my skills, and make an impact.  
-
----
-
-## 🔹 Connect with Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/abhishek-sapkal-b11881263)  
-- 📧 [Email](mailto:abhisheksapkal002@gmail.com)  
-- 📱 +91 7665770015  
-
----
-⭐ *Always curious, always learning.*  
+<hr style="border-color: #30363d;">
+<p style="text-align: center; font-size: 14px; color: #8b949e;">
+  <a href="https://www.linkedin.com/in/abhishek-sapkal-b11881263" target="_blank" style="color: #58a6ff; text-decoration: none;">[ LinkedIn ]</a>
+  <span style="color: #30363d;">::</span>
+  <a href="mailto:abhisheksapkal002@gmail.com" style="color: #58a6ff; text-decoration: none;">[ Email ]</a>
+</p>
+</div>
