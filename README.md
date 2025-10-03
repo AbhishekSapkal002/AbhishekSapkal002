@@ -79,9 +79,9 @@ Official site with **schedule, player registration, and points table**.
 ---
 
 ## 🔹 Connect with Me  
-- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com)  
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-- 📝 Portfolio: [Your Website](https://yourportfolio.com)  
+- 🌐 LinkedIn: [My LinkedIn](linkedin.com/in/abhishek-sapkal-b11881263)  
+- 📧 Email: [My Email](mailto:abhisheksapkal002@gmail.com)  
+- 📝 Portfolio: [My Website](https://yourportfolio.com)  
 
 ---
 ⭐ *Always curious, always learning.*  
